@@ -1,0 +1,109 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.hlaf-width{
+    width: 50%;
+    padding-left: 50px;
+}
+.link-Bottam{
+text-decoration: none;
+background-image:linear-gradient(orange,tomato);
+color:white;
+font-size: 20px;
+border-radius: 10px;
+
+}
+.top-banner{
+    background-image: url(insta.png);
+    background-repeat: no-repeat;
+}
+.dream-big{
+    display: flex;
+}
+.Dream-big{
+    
+    
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0%;
+}
+.Exprement{
+    display: flex;
+}
+.external{
+    box-shadow: 10px 10px 10px 10px gray;
+    width: 80%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+}
+#Full-webdeveloper{
+    border-left: 7px solid orange;
+}
+#Babay-webdevelopment{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
+}body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.hlaf-width{
+    width: 50%;
+    padding-left: 50px;
+}
+.link-Bottam{
+text-decoration: none;
+background-image:linear-gradient(orange,tomato);
+color:white;
+font-size: 20px;
+border-radius: 10px;
+
+}
+.top-banner{
+    background-image: url(insta.png);
+    background-repeat: no-repeat;
+}
+.dream-big{
+    display: flex;
+}
+.Dream-big{
+    
+    
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0%;
+}
+.Exprement{
+    display: flex;
+}
+.external{
+    box-shadow: 10px 10px 10px 10px gray;
+    width: 80%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+}
+#Full-webdeveloper{
+    border-left: 7px solid orange;
+}
+#Babay-webdevelopment{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
+}
